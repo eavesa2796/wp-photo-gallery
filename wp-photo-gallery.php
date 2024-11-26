@@ -1,11 +1,9 @@
 <?php
 /*
 Plugin Name: WP Photo Gallery
-Plugin URI: http://example.com/wp-photo-gallery
 Description: A responsive photo gallery plugin with lightbox and admin management features.
 Version: 1.0
-Author: Your Name
-Author URI: http://example.com
+Author: Anthony Eaves
 License: GPL2
 */
 
